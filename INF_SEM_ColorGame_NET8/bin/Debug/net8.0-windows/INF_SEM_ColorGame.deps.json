@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "INF_SEM_ColorGame/1.0.0": {
+        "runtime": {
+          "INF_SEM_ColorGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INF_SEM_ColorGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
